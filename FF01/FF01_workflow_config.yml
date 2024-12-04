@@ -1,0 +1,5 @@
+telemetry_priority:
+  priority_1: "gps1"
+  priority_2: "gps2"
+  priority_3: "satPV"
+  priority_4: "ephemeris"

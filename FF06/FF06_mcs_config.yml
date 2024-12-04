@@ -1,0 +1,6 @@
+ip_address:
+    primary_mcs: "192.168.10.102:9090"
+    secondary_mcs: "192.168.10.102:9090"
+    can_mcs: "172.16.8.65:9090"
+
+instance : "FF6"
