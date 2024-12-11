@@ -4,3 +4,4 @@ ip_address:
     can_mcs: "172.16.8.65:9090"
 
 instance : "FF6"
+duration : 1 # hrs (last N hours of telemetry will b fetched )
