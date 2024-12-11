@@ -34,10 +34,12 @@ fds-configs
 ===========
 
 
-    Add a short description here!
+    The source for all configs used by FDS - spacecraft, mcs, worklfow configs.
 
 
-A longer description of your project goes here...
+FDS maintains configuration parameters that describe the current status of each spacecraft along
+with the parameters that enable access to MCS for telemetry and define internal FDS workflow
+behaviors.
 
 
 .. _pyscaffold-notes:
