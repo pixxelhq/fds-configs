@@ -1,7 +1,14 @@
-ip_address:
-    primary_mcs: "192.168.10.102:9090"
-    secondary_mcs: "192.168.10.102:9090"
-    can_mcs: "172.16.8.65:9090"
+primary_mcs:
+    ip_address: "http://192.168.10.119:8092/"
+    instance : "FF02-primary"
+secondary_mcs:
+    ip_address: "http://192.168.10.132:8092/"
+    instance : FF02-secondary
+can_mcs:
+    ip_address: "172.16.8.65:9090"
 
-instance : "FF2"
+credentials:
+    username: "subsystem"
+    password: "iamffsubsystem"
+
 duration : 1 # hrs (last N hours of telemetry will b fetched )
