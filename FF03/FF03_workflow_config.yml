@@ -3,3 +3,8 @@ telemetry_priority:
   priority_2: "gps2"
   priority_3: "satPV"
   priority_4: "ephemeris"
+
+tle_generation:
+  ksat_tle : True
+  leafspace_tle : True
+  norad_tle : False
