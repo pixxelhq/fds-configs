@@ -21,7 +21,6 @@ tle_parameters:
     element_number: 0
     leafspace_id : 10009
 
-
 orbital_parameters:
   semimajor_axis: 6943.432 #km
   mean_altitude: 565.295 #km
@@ -29,6 +28,10 @@ orbital_parameters:
   eccentricity: 0.00106
   raan: -71.972783 #deg
   period: 5765.332 #sec
+
+hardware_parameters:
+  gps_to_utc_offset : -18
+
 
 imaging_parameters:
     max_offnadir : 20 # deg

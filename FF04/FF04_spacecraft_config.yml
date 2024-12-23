@@ -27,6 +27,10 @@ orbital_parameters:
   raan: -71.972783 #deg
   period: 5765.332 #sec
 
+hardware_parameters:
+  gps_to_utc_offset : -18
+
+
 imaging_parameters:
   max_offnadir : 20 # deg
   trigger_interval: 7.0e-4
