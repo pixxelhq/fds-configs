@@ -1,5 +1,5 @@
 Location,Name,Onboard GS ID,ITU (india) filing Station ID,Latitude,Longitude,Altitude,Min Elevation,GS Provider
-"Svalbard, Norway",NOR01,1,SVALBARD01,78.2315,15.4111,0,5,KSAT
-"Punta Arenas, Chile",CHL01,2,CHL01,-52.93635,-70.87012,186,5,"KSAT, LS"
-"Awarua, New Zealand",NZL01,3,AWARUA01,-46.51805,168.384722,16,5,"KSAT, LS"
-"Kandy, Sri Lanka",CLN01,15,CLN01,7.2946286,80.5845816,462,5,LS
+"Svalbard, Norway",NOR01,1,SVALBARD01,78.2315,15.4111,0,0,KSAT
+"Punta Arenas, Chile",CHL01,2,CHL01,-52.93635,-70.87012,186,0,"KSAT, LS"
+"Awarua, New Zealand",NZL01,3,AWARUA01,-46.51805,168.384722,16,0,"KSAT, LS"
+"Kandy, Sri Lanka",CLN01,15,CLN01,7.2946286,80.5845816,462,0,LS
