@@ -1,9 +1,10 @@
 # FIREFLY 6
 originator: 'Pixxel'
-mission: "FF06"
+spacecraft_id: "FF06"
 
 spacecraft_parameters:
     name: 'Firefly_6'
+    internal_code: "SAT00"
     norad_id: 91696 # KSAT ID
     mass: 50.03 # kg
     min_visibility_elevation: 5.0 #deg

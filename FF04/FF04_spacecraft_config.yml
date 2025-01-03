@@ -1,9 +1,10 @@
 #FIREFLY 4
 originator: "Pixxel"
-mission: "FF04"
+spacecraft_id: "FF04"
 
 spacecraft_parameters:
     name: 'Firefly_4'
+    internal_code: "SAT00"
     norad_id: 91694 # KSAT ID
     mass: 50.02 # kg
     min_visibility_elevation: 5.0 #deg

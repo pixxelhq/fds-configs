@@ -1,9 +1,10 @@
 # FIREFLY 2
 originator: 'Pixxel'
-mission: "FF02"
+spacecraft_id: "FF02"
 
 spacecraft_parameters:
     name: 'Firefly_2'
+    internal_code: "SAT05"
     norad_id: 91692 # KSAT ID
     mass: 50.02 # kg
     min_visibility_elevation: 5.0 #deg
